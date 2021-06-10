@@ -1,4 +1,4 @@
-## Sparsity-Assisted Signal Denoising and Pattern Recognition in Time-Series Data
+## Sparsity-Assisted Signal Denoising and Pattern Recognition
 Signal denoising and pattern recognition of time-series data are widely used in many scientific fields, including physics, engineering, medicine, economics, acoustics, biology, and psychology. For example, specific signal patterns in the electroencephalogram (EEG) data, which are useful in clinical diagnosis and cognitive neuroscience, are challenging to detect and distinguish from artifacts. In this work, we address the problem of signal denoising and pattern recognition in processing batch-mode time-series data by combining linear time-invariant filters, orthogonal multiresolution representations, and sparsity-based methods. For example, in the figure below, we decompose the original signal as the sum of a low-frequency signal, an oscillatory signal, and a discontinuous signal using our novel filter designs and proposed signal model.
 
 <p align="center">
