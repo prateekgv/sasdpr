@@ -17,6 +17,9 @@ Signal denoising and pattern recognition of time-series data are widely used in 
 * We propose and derive a new signal model called sparsity-assisted pattern recognition (SAPR). In SAPR, we combine LTI band-pass filters and sparsity-based methods with orthogonalmultiresolution representations, such as wavelets, to detect specific patterns in the input signal.
 * We combine the signal denoising and pattern recognition tasks, and derive a new signal model called the sparsity-assisted signal denoising and pattern recognition (SASDPR).
 
+#### License
+The source code is released under the [MIT](LICENSE.md) license.
+
 #### Cite
 If you find our work interesting and useful, please cite the following publication:
 > G. V. Prateek, Y-E. Ju, and A. Nehorai, “Sparsity-assited signal denoising and pattern recognition in time-series data,” to appear in _Circuits, Systems, and Signal Processing_.
