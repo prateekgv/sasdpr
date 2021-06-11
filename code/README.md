@@ -1,10 +1,4 @@
-Software to accompany the paper:
-
-G.V.Prateek, Y.E. Ju, and A. Nehorai, 'Sparsity-assisted signal denoising and pattern recognition'
-submitted to IEEE Transactions on Signal Processing, 2019.
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+### Data
 Snapshots of the epochs used in the './data/spindles' and './data/kcomplexes' are from the following databases:
 
 Sleep spindles: http://www.tcts.fpms.ac.be/~devuyst/Databases/DatabaseSpindles/
